@@ -1,0 +1,5 @@
+main: net.dogeserver.Main
+name: Essentials
+version: 1.0
+author: HowAboutDoge
+commands:
