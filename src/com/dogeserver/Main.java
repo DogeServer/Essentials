@@ -1,4 +1,4 @@
-package net.dogeserver;
+package com.dogeserver;
 
 import java.util.logging.Logger;
 
